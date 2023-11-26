@@ -1,7 +1,7 @@
 # EPL_2020-21-Exploratory-Data-Analysis
 Name: Siddhartha Sinha
 
-Class: 3BSc Statistics
+Class: BSc Statistics
 
 Register No: 115-1114-0525-19
 
